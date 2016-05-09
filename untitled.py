@@ -1,4 +1,8 @@
-#-*- coding utf-8 -*-
+# -*- coding utf-8 -*-
+
+# @Author JimmyLin
+# @Date 2016-05-09
+
 import string
 import urllib2
 
